@@ -1,4 +1,4 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="👋" width="40" height="40" style="vertical-align: middle;"> HELLO THERE! I'M JÁN
+# <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35" alt="👋"> Hello there! I'm Ján
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
