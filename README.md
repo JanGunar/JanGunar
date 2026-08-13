@@ -1,4 +1,4 @@
-👋 Hello there! I'm Ján
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="👋" width="40" height="40" style="vertical-align: middle;"> HELLO THERE! I'M JÁN
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
